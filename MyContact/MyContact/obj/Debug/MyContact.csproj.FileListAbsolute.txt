@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\bin\Debug\MyContact.exe.config
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\bin\Debug\MyContact.exe
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\bin\Debug\MyContact.pdb
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\obj\Debug\MyContact.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\obj\Debug\MyContact.Form1.resources
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\obj\Debug\MyContact.frmAddOrEdit.resources
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\obj\Debug\MyContact.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\obj\Debug\MyContact.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\obj\Debug\MyContact.csproj.CopyComplete
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\obj\Debug\MyContact.exe
+C:\Users\Hp\Desktop\Tamrin\MyContact\MyContact\MyContact\obj\Debug\MyContact.pdb
